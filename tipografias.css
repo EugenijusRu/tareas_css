@@ -1,0 +1,31 @@
+.primero {
+    font-family:Verdana, sans-serif;
+    color: rgb(5, 244, 244);
+}
+.segundo {
+    font-family:Didot, serif;
+    color:red;
+}
+.tercero {
+    font-family:FreeMono, monospace;
+    color:blue;
+} 
+.cuarto {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: brown;
+}
+.quinto {
+    font-size: 24px;
+    font-family: 'Akronim';
+    color: blueviolet;
+}
+@font-face {
+    font-family: 'Akronim';
+    src: url('./fonts/Akronim/Akronim-Regular.ttf') format('truetype');
+}
+.sexto {
+    font-family: Montserrat;
+    font-weight: 400;
+    color: chartreuse;
+}
