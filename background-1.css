@@ -1,0 +1,20 @@
+.myHeader {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    text-align: left;
+    background-image: url(./images/balloons.jpg);
+    background-position: top right;
+    background-size: 100%;
+    width: 350px;
+
+}
+
+.myHeader h2 {
+    background-color: rgba(0,0,0,.5);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
